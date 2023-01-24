@@ -1,0 +1,56 @@
+Läpäisyohje-esimerkki
+              (monta eri tapaa läpäistä, mitä enemmän aluetta tutkii, sitä enemmän pelistä saa irti.
+              Sitä korkeammat mahdollisuudet myös selvitä, koska tietää eri alueiden vaaroista. Pelissä saattaa myös jäädä hortoilemaan,
+              eli läpäisy ei ole ihan itsestäänselvää. Ei olisi myöskään tosielämässä.)
+
+Komennot, nopein tapa pelata läpi:
+    "mene länteen"
+    "käytä puukkoa"
+    "mene itään"
+    "mene itään"
+    "käytä puuta"
+
+
+Vaihtoehtoiset esimerkkikomennot:
+    "tutki"
+    "käytä puukkoa"
+    "mene länteen"
+    "tutki"
+    "käytä puukkoa"
+    "mene pohjoiseen"
+    "tutki"
+    "mene itään"
+    "juo"
+    "mene itään"
+    "tutki"
+    "käytä puuta"
+
+
+
+
+
+
+
+
+Pelin voi läpäistä monella eri tavalla, mutta oleellisten asioiden on tapahduttava:
+
+    1.puukolla hakata bambua majaa varten (muut puut ovat liian paksuja puukolle)
+    2.rakentaa maja eucalyptusmetsään.
+    3.tehdä yllä mainitut asiat ennen kuin kello on 19, tai
+    ennen kuin pelaaja pökertyy nestehukkaan (10h aikaa edellisestä juomisesta purolla).
+
+Majan on oltava euvalyptusmetsässä, koska puron lähellä on käärmeitä.
+Kaikkialla maassa on hämähäkkejä, joten aukiolle ei pidä rakentaa.
+Myöskään viidakkoon ei pidä rakentaa, koska hämähäkit viihtyvät Ficus puissa.
+Bambumetsä on liian matala, että se suojaisi hämähäkeiltä.
+
+Kaikki yllä oleva tieto on pelaajan saatavilla pelissä. Tiedot saa selville, jos
+pelaaja tutkii alueita (komento "tutki"). Ainoastaan puron luona ei ole mitään
+tietoa.
+
+G&A:
+    -Miten pelaaja yrittää hakata puuta?
+         Komennolla "käytä puukkoa". Puukolla hakataan sitä puuta, missä metsässä pelaaja on.
+    -Miten pelaaja rakentaa majan?
+         Komennolla "Käytä puuta". Maja rakentuu, jos pelaajalla on bambua.
+         Maja rakentuu siihen sijaintiin, jossa pelaaja komentohetkellä on.
